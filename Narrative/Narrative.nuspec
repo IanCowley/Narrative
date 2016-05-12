@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Narrative</id>
+    <version>1.0.1</version>
+    <title>Narrative</title>
+    <authors>Ian Cowley</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/iancowley/narrative</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The worlds simplest c# BDD framework</description>
+    <releaseNotes>tbc</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>BDD C# GIVEN WHEN THEN STORY</tags>
+  </metadata>
+  <files>
+        <file src="bin\Release\net45\Narrative.dll" target="lib\net45\Narrative.dll" />
+    </files>
+</package>

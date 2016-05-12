@@ -1,0 +1,4 @@
+C:\Development\Projects\OSS\Simple.CQRS\MicroBDD\bin\Debug\MicroBDD.dll
+C:\Development\Projects\OSS\Simple.CQRS\MicroBDD\bin\Debug\MicroBDD.pdb
+C:\Development\Projects\OSS\Simple.CQRS\MicroBDD\obj\Debug\MicroBDD.dll
+C:\Development\Projects\OSS\Simple.CQRS\MicroBDD\obj\Debug\MicroBDD.pdb

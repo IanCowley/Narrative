@@ -1,0 +1,3 @@
+C:\Development\Projects\OSS\Narrative\Narrative\bin\Release\net45\Narrative.dll
+C:\Development\Projects\OSS\Narrative\Narrative\obj\Release 4.5\Narrative.csprojResolveAssemblyReference.cache
+C:\Development\Projects\OSS\Narrative\Narrative\obj\Release 4.5\Narrative.dll

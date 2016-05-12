@@ -1,0 +1,4 @@
+C:\Development\Projects\OSS\Narrative\Narrative\bin\Release\Narrative.dll
+C:\Development\Projects\OSS\Narrative\Narrative\bin\Release\Narrative.pdb
+C:\Development\Projects\OSS\Narrative\Narrative\obj\Release\Narrative.dll
+C:\Development\Projects\OSS\Narrative\Narrative\obj\Release\Narrative.pdb
