@@ -20,7 +20,7 @@ public void CreatingACustomerAndAProduct()
 
     Story
     	.Given("I have a customer with basic information", () => this.PopulateCustomer(customer))
-    	.And("I have product A", () => this.PopulateProduct(product, name: A))
+    	.And("I have product A", () => this.PopulateProduct(product, name: "A"))
         .When("Save customer", () => this.SaveCustomer(customer))
         .And("Save product" () => this.SaveProduct(product))
         .And("Attach product to customer", () => this.AttachProductToCustomer(customer, product))
