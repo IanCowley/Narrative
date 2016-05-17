@@ -1,6 +1,6 @@
 Narrative is a simple BDD framework, which gives you a simple Given When Then syntax.  It is not opinionated, it's basic.  Very basic...
 
-I wrote this because there was nothing else about that did what I needed and to be fair
+I wrote this because there was nothing else about that did what I needed and *I am more than keen for people forking and then sending me pull requests!*
 
 **Installation**
 Via NuGet
@@ -30,4 +30,3 @@ public void CreatingACustomerAndAProduct()
         .Start();
 }
 ```
-*Pull requests are welcome by the way.*"# Narrative" 
