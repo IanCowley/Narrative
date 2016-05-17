@@ -9,6 +9,7 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release.Net45|Any CPU = Release.Net45|Any CPU
+		Release.Net451|Any CPU = Release.Net451|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
@@ -16,6 +17,8 @@ Global
 		{66B4345B-EC85-4377-A863-F97A55105BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B4345B-EC85-4377-A863-F97A55105BBA}.Release.Net45|Any CPU.ActiveCfg = Release 4.5|Any CPU
 		{66B4345B-EC85-4377-A863-F97A55105BBA}.Release.Net45|Any CPU.Build.0 = Release 4.5|Any CPU
+		{66B4345B-EC85-4377-A863-F97A55105BBA}.Release.Net451|Any CPU.ActiveCfg = Release|Any CPU
+		{66B4345B-EC85-4377-A863-F97A55105BBA}.Release.Net451|Any CPU.Build.0 = Release|Any CPU
 		{66B4345B-EC85-4377-A863-F97A55105BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B4345B-EC85-4377-A863-F97A55105BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
